@@ -7,8 +7,7 @@ trigger:
 - main
 
 pool:
-  Ashish
-
+ name: Ashish
 steps:
 - script: echo Hello, world!
   displayName: 'Run a one-line script'
